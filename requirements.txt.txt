@@ -1,0 +1,12 @@
+streamlit
+pyserial
+pandas
+numpy
+matplotlib
+scikit-learn
+scikit-image
+Pillow
+opencv-python
+scipy
+openpyxl
+pypdf

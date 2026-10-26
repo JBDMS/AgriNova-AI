@@ -1,0 +1,33 @@
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Sensor logs
+agrinova_sensor_data.csv
+sensor_data_CLEANED.csv
+*.log
+
+# Dataset archives and raw data
+Rice Dataset.zip
+*.zip
+data/raw/
+data/processed/
+
+# Trained models
+*.h5
+*.keras
+*.pkl
+*.joblib
